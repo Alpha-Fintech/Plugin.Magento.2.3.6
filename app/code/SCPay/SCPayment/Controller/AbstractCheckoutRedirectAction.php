@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
  * AbstractCheckoutRedirectAction is used for intermediate for request and reponse.
  */

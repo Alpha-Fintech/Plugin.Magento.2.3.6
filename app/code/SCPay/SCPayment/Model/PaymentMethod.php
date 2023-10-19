@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
  * PaymentMethod is base class / entry point for SCPay plugin.
  */
@@ -62,9 +62,9 @@ class PaymentMethod extends \Magento\Payment\Model\Method\AbstractMethod
 
     function getPaymentGatewayRedirectUrl() {
         if ($this->objConfigSettings['mode']) {
-            return 'https://staging.payment.share-commerce.com/Payment';
+            return 'https://stagingpayment.scpayments.com.my/Payment';
         } else {        
-            return 'https://payment.share-commerce.com/Payment';
+            return 'https://payment.scpayments.com.my/Payment';
         }
     }
 

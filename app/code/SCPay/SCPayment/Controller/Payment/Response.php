@@ -1,6 +1,6 @@
 <?php
 /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
  * This Response action method is responsible for handle the SCPayment payment gateway response.
  */

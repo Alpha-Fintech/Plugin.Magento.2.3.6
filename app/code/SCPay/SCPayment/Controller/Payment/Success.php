@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
  * Payment Success Controller action method is used to display the payment success response into Magento frontend.
  */

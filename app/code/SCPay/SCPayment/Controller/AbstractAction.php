@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
  * AbstractAction class is base class for SCPay payment gateway.
  */

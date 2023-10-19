@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
  * PaymentModeType is give the model for dropdown page in admin configuration setting page.
  */

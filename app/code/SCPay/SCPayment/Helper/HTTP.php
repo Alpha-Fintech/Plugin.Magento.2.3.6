@@ -4,7 +4,7 @@
 * @param string $url
 * @param string $fields_string
 * @return void
-* @author ShareCommerce
+* @author ScPayments
 */
 
 namespace SCPay\SCPayment\Helper;

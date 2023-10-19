@@ -1,9 +1,9 @@
 <?php
  
  /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
- * Create ShareCommerce require table in database when plugin/module is installed in Magento-2
+ * Create ScPayments require table in database when plugin/module is installed in Magento-2
  */
 
 namespace SCPay\SCPayment\Setup;

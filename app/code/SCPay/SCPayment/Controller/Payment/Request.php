@@ -1,9 +1,9 @@
 <?php
 
 /*
- * Created by ShareCommerce
+ * Created by ScPayments
  * Date 8 Sept 2022
- * Payment Request Controller is responsible for send request to ShareCommerce payment gateway.
+ * Payment Request Controller is responsible for send request to ScPayments payment gateway.
  */
 
 namespace SCPay\SCPayment\Controller\Payment;
